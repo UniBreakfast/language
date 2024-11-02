@@ -1,12 +1,10 @@
-
-
 {
-    "ua": {
-        "title": "Сторінка з перемикачем мови",
-        "description": "Виберіть мову зі списку справа згори"
+    "title": {
+        "uk": "Сторінка з перемикачем мови",
+        "en": "Language switcher page"
     },
-    "en": {
-        "title": "Language switcher",
-        "description": "Choose language from the list"
+    "description": {
+        "uk": "Виберіть мову зі списку справа згори",
+        "en": "Choose language from the list on the right"
     }
 }
